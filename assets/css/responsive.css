@@ -1,0 +1,263 @@
+@media (max-width: 1024px) {
+    .hero {
+        height: 120vh;
+        width: 100%;
+        overflow: hidden;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .hero h1 {
+        font-size: 3.8em;
+        top: 180px;
+    }
+
+    .hero p {
+        font-size: 1.2em;
+        top: 200px;
+    }
+
+    .hero-buttons {
+        top: 240px;
+    }
+    .latest-news{
+        margin-top: 280px;
+    }
+    .footer {
+        height: 87vh;
+    }
+    .team{
+        height: 180vh ;
+    }
+    .latest-news{
+        height: 290vh;
+    }
+
+}
+@media (max-width: 1224px) {
+    .footer {
+        height: 87vh;
+    }
+    .team{
+        height: 180vh ;
+    }
+    .latest-news{
+        height: 290vh;
+    }
+    .hero {
+        height: 210vh;
+        width: 100%;
+        overflow: hidden;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .hero {
+        height: 120vh;
+        width: 100%;
+        overflow: hidden;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .hero h1 {
+        font-size: 2.8em;
+        top: 150px;
+    }
+
+    .hero p {
+        font-size: 1em;
+        top: 170px;
+        width: 90%;
+    }
+
+    .hero-buttons {
+        top: 200px;
+        gap: 10px;
+    }
+
+    .learn-more, .download {
+        width: 45%;
+        height: 50px;
+    }
+}
+
+@media (max-width: 630px) {
+    .hero {
+        height: 120vh;
+        width: 100%;
+        overflow: hidden;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .hero nav {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        width: 650px;
+        height: 10vh;
+        align-content: center;
+        margin: 90px 30px;
+    }
+}
+
+@media (max-width: 910px) {
+    .hr-container progress{
+        width: 200px;
+    }
+    .purple-container p{
+        font-size: 0.75em;
+    }
+    .latest-news{
+        margin-top: 380px;
+    }
+    .new h1{
+        font-size: 1.2em;
+    }
+    .tall-new h1{
+        font-size: 1.1em;
+    }
+    .new p{
+        font-size: 0.9em;
+    }
+    .tall-new p{
+        font-size: 0.9em;
+    }
+    .new a{
+        margin-left: 80px;
+    }
+    .tall-new a{
+        margin-left: 80px;
+    }
+    .team h1{
+        font-size: 2em;
+    }
+    .team div > div img{
+        width: 5em;
+        height: 5em;
+    }
+    .team{
+        height: 100vh;
+    }
+    .team div > div > div h1{
+        font-size: 1.2em;
+    }
+    .team div > div > div h3{
+        font-size: 0.8em;
+    }
+    .contact-container{
+        width: 80%;
+    }
+    .contact-info {
+        margin-right: 100px;
+        margin-left: 40px;
+    }
+    .contact-info div {
+        width: 70%;
+        margin: 0 10px;
+        text-align: left;
+        display: flex;
+    }
+    .footer {
+        height: 77vh;
+    }
+    .latest-news{
+        height: 290vh;
+    }
+    .team{
+        height: 180vh;
+    }
+    .hero {
+        height: 210vh;
+        width: 100%;
+        overflow: hidden;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+}
+
+@media (max-width: 621px){
+    .hr-container progress{
+        width: 100px;
+    }
+    .projects{
+        margin-top: 200px;
+    }
+    .purple-container p{
+        font-size: 0.55em;
+    }
+    .latest-news{
+        margin-top: 480px;
+    }
+    .new{
+        width: 32%;
+        height: 100%;
+    }
+    .tall-new{
+        width: 32%;
+        height: 105%;
+    }
+    .new h1{
+        font-size: 1em;
+    }
+    .tall-new h1{
+        font-size: 1em;
+    }
+    .new p{
+        font-size: 0.8em;
+    }
+    .tall-new p{
+        font-size: 0.8em;
+    }
+    .new a{
+        margin-left: 60px;
+    }
+    .tall-new a{
+        margin-left: 60px;
+    }
+    .team{
+        height: 200vh;
+    }
+    .team div > div img{
+        width: 3em;
+        height: 3em;
+    }
+    .team div > div > div{
+        width: 80%;
+        margin: 1.4em 0em 0em 0em;
+    }
+    .footer {
+        height: 77vh;
+    }
+    .latest-news{
+        height: 320vh;
+    }
+    .hero {
+        height: 210vh;
+        width: 100%;
+        overflow: hidden;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .about{
+        height: 150vh;
+    }
+    .projects{
+        height: 150vh;
+    }
+    .testimonials{
+        height:170vh;
+    }
+    .services{
+        height: 160vh;
+    }
+}
